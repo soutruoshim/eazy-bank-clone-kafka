@@ -1,5 +1,6 @@
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/IAccountsService.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/ICustomersService.java
+/Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/client/LoansFallback.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/AccountsApplication.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/entity/BaseEntity.java
@@ -19,6 +20,7 @@
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/client/LoansFeignClient.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/client/CardsFeignClient.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/impl/CustomersServiceImpl.java
+/Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/service/client/CardsFallback.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsDto.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.java
 /Users/srhdp/Documents/spring_boot_project/eazybank2/accounts/src/main/java/com/eazybytes/accounts/mapper/AccountsMapper.java
