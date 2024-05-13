@@ -1,6 +1,6 @@
 .classpath
 .project
 .settings/
-accounts/targetaccounts/target/
+accounts/target/
 cards/target/
 loans/target/
