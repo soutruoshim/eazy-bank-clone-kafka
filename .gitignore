@@ -2,5 +2,8 @@
 .project
 .settings/
 accounts/target/
+accounts/target/*
 cards/target/
+cards/target/*
 loans/target/
+loans/target/*
