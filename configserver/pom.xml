@@ -67,7 +67,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>eazybytes/${project.artifactId}:11</image>
+						<image>eazybytes/${project.artifactId}:13</image>
 					</to>
 				</configuration>
 			</plugin>
